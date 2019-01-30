@@ -1,0 +1,18 @@
+C:\Users\Thomas\Documents\C# Resources\GUI Apps\IPS Shipment Tracker\IPS Shipment Tracker\bin\Release\IPS Shipment Tracker.exe.config
+C:\Users\Thomas\Documents\C# Resources\GUI Apps\IPS Shipment Tracker\IPS Shipment Tracker\bin\Release\IPS Shipment Tracker.exe
+C:\Users\Thomas\Documents\C# Resources\GUI Apps\IPS Shipment Tracker\IPS Shipment Tracker\bin\Release\IPS Shipment Tracker.pdb
+C:\Users\Thomas\Documents\C# Resources\GUI Apps\IPS Shipment Tracker\IPS Shipment Tracker\obj\Release\MainWindow.g.cs
+C:\Users\Thomas\Documents\C# Resources\GUI Apps\IPS Shipment Tracker\IPS Shipment Tracker\obj\Release\Tracking.g.cs
+C:\Users\Thomas\Documents\C# Resources\GUI Apps\IPS Shipment Tracker\IPS Shipment Tracker\obj\Release\App.g.cs
+C:\Users\Thomas\Documents\C# Resources\GUI Apps\IPS Shipment Tracker\IPS Shipment Tracker\obj\Release\IPS Shipment Tracker_MarkupCompile.cache
+C:\Users\Thomas\Documents\C# Resources\GUI Apps\IPS Shipment Tracker\IPS Shipment Tracker\obj\Release\IPS Shipment Tracker_MarkupCompile.lref
+C:\Users\Thomas\Documents\C# Resources\GUI Apps\IPS Shipment Tracker\IPS Shipment Tracker\obj\Release\App.baml
+C:\Users\Thomas\Documents\C# Resources\GUI Apps\IPS Shipment Tracker\IPS Shipment Tracker\obj\Release\MainWindow.baml
+C:\Users\Thomas\Documents\C# Resources\GUI Apps\IPS Shipment Tracker\IPS Shipment Tracker\obj\Release\Tracking.baml
+C:\Users\Thomas\Documents\C# Resources\GUI Apps\IPS Shipment Tracker\IPS Shipment Tracker\obj\Release\IPS Shipment Tracker.g.resources
+C:\Users\Thomas\Documents\C# Resources\GUI Apps\IPS Shipment Tracker\IPS Shipment Tracker\obj\Release\IPS_Shipment_Tracker.Properties.Resources.resources
+C:\Users\Thomas\Documents\C# Resources\GUI Apps\IPS Shipment Tracker\IPS Shipment Tracker\obj\Release\IPS Shipment Tracker.csproj.GenerateResource.cache
+C:\Users\Thomas\Documents\C# Resources\GUI Apps\IPS Shipment Tracker\IPS Shipment Tracker\obj\Release\IPS Shipment Tracker.csproj.CoreCompileInputs.cache
+C:\Users\Thomas\Documents\C# Resources\GUI Apps\IPS Shipment Tracker\IPS Shipment Tracker\obj\Release\IPS Shipment Tracker.exe
+C:\Users\Thomas\Documents\C# Resources\GUI Apps\IPS Shipment Tracker\IPS Shipment Tracker\obj\Release\IPS Shipment Tracker.pdb
+C:\Users\Thomas\Documents\C# Resources\GUI Apps\IPS Shipment Tracker\IPS Shipment Tracker\obj\Release\IPS Shipment Tracker.csprojAssemblyReference.cache
