@@ -7,3 +7,6 @@ For this application to work - it is necessary to modify all occurences of the c
 Thanks!
 
 Thomas O.
+
+****RUNNING APPLICATION IMAGES*****
+![](images/img1.png)
